@@ -1,2 +1,2 @@
 # SpringJdbc
-SpringJDBC core concepts
+SpringJDBC core
